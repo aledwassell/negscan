@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c60dfc-5f3b-420e-9ec1-69d9185229ce" name="Default" comment="Mking update and learning Native Script">
+    <list default="true" id="44c60dfc-5f3b-420e-9ec1-69d9185229ce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,8 +27,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -147,7 +147,7 @@
       <updated>1531862477628</updated>
       <workItem from="1531862481154" duration="1093000" />
       <workItem from="1531898019788" duration="2583000" />
-      <workItem from="1531947717954" duration="889000" />
+      <workItem from="1531947717954" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1531862899209</created>
@@ -205,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531948577068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Mking update and learning Native Script">
+      <created>1531948619302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531948619302</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4565000" />
+    <option name="totallyTimeSpent" value="4648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1874" y="22" width="1874" height="1058" extended-state="6" />
@@ -406,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding />
         </state>
       </provider>

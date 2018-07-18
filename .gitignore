@@ -11,6 +11,7 @@ workspace.xml
 hooks/
 lib/
 node_modules/
+node_modules
 platforms/
 tmp/
 typings/
