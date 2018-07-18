@@ -5,6 +5,7 @@ npm-debug.log
 *.metadata.json
 app/**/*.js
 npm-debug.log
+workspace.xml
 
 hooks/
 lib/
