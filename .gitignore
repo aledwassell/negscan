@@ -6,6 +6,7 @@ npm-debug.log
 app/**/*.js
 npm-debug.log
 workspace.xml
+.idea
 
 hooks/
 lib/
